@@ -5,3 +5,5 @@ print (now.strftime("%Y-%m-%d %H:%M:%S"))
 print ("Hello World")
 print ("Checking the merging process")
 print ("Hello Satya")
+print ("Hi Satya")
+
